@@ -1,8 +1,8 @@
 {
     "DB_ACCESS": "sqlite:///datatable.db",
     "DELETE_DELAY": 1209600,
-    "API_TOKEN": "<-TELEGRAM-API-TOKEN->",
-    "ADMIN_ID": 1122334455,
+    "API_TOKEN": "1327572686:AAFsgdpyubYSw6ZUiw0xQX6sbJ4rfra0o8I",
+    "ADMIN_ID": 991103511,
     "HELLO_ADMIN": "Hello, Admin!",
     "HELLO_CHAT": "Welcome to feedback bot",
     "NO_REPLY_MESSAGE": ":bangbang::bangbang: You should reply a message :bangbang::bangbang:",
